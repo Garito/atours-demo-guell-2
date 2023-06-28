@@ -1,3 +1,5 @@
+[demo](https://649c5a2406d23a0008233634--harmonious-dusk-79f16d.netlify.app/)
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
